@@ -1,10 +1,11 @@
 # copy-of-slangpy-neuralnetwork
 
 This is just a copy of https://github.com/shader-slang/slangpy/tree/main/experiments/neuralnetwork
+
 The difference is that `main.py` has additional functions to save and load the model weights, and do training and inference separately.
 Feel free to use the code in main.py to get you started.
 
-Please refer to https://github.com/shader-slang/slangpy/tree/main for more information about SlangPy, including documentation and other examples.
+Please refer to https://github.com/shader-slang/slangpy/tree/main for more information about **SlangPy**, including documentation and other examples.
 
 ## Scripts
 Here are some scripts for training and inference with the neural texture generator.
